@@ -1,5 +1,6 @@
 /** @format */
 
+
 let arr = [
     { id: 1, name: "john", age: "18", marks: 80 },
     { id: 2, name: "jack", age: "20", marks: 85 },
